@@ -2,8 +2,6 @@
 
 Which is designed to manage and serve common people's note-making. This user-friendly platform is built using React, making it easily accessible to anyone with an internet connection.
 
-You can find the live project on this link 👉
-[https://anilpiparaiyanotesapp.netlify.app/](https://anilpiparaiyanotesapp.netlify.app/)
 
 
 ## Table of Contents
@@ -32,12 +30,12 @@ To get started with NoteTakingApp, follow these simple steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/anilpiparaiya/NoteTakingApp.git
+   git clone https://github.com/Deep14112001/WorkEase.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd NoteTakingApp
+   cd WorkEase
    ```
 
 3. `npm run dev`
@@ -79,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for using NoteTakingApp, your go-to website for everyday lifestyle needs. If you have any questions or feedback, please feel free to reach out to us at [anilkumarpiparaiya@gmail.com](mailto:anilkumarpiparaiya@gmail.com). Enjoy your journey to a better and more informed lifestyle!
+Thank you for using NoteTakingApp, your go-to website for everyday lifestyle needs. If you have any questions or feedback, please feel free to reach out to us at [deepeshchandra005@gmail.com](mailto:deepeshchandra005@gmail.com). Enjoy your journey to a better and more informed lifestyle!
 
 
 
